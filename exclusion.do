@@ -1,0 +1,8 @@
+coverage exclude -scope /top/mem_dut -togglenode {i[0]} {i[1]} {i[2]} {i[3]} {i[4]} {i[5]} {i[6]} {i[7]} {i[8]} {i[9]}
+coverage exclude -scope /top/mem_dut -togglenode {i[10]} {i[11]} {i[12]} {i[13]} {i[14]} {i[15]} {i[16]} {i[17]} {i[18]} {i[19]}
+coverage exclude -scope /top/mem_dut -togglenode {i[20]} {i[21]} {i[22]} {i[23]} {i[24]} {i[25]} {i[26]} {i[27]} {i[28]} {i[29]}
+coverage exclude -scope /top/mem_dut -togglenode {i[30]} {i[31]}
+coverage exclude -scope /top/mem_dut -togglenode {i[0]} {i[1]} {i[2]} {i[3]} {i[4]} {i[5]} {i[6]} {i[7]} {i[8]} {i[9]}
+coverage exclude -scope /top/mem_dut -togglenode {i[10]} {i[11]} {i[12]} {i[13]} {i[14]} {i[15]} {i[16]} {i[17]} {i[18]} {i[19]}
+coverage exclude -scope /top/mem_dut -togglenode {i[20]} {i[21]} {i[22]} {i[23]} {i[24]} {i[25]} {i[26]} {i[27]} {i[28]} {i[29]}
+coverage exclude -scope /top/mem_dut -togglenode {i[30]} {i[31]}
